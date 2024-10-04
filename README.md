@@ -9,13 +9,7 @@ pip
 
 **Installation:**
 ```bash
-pip install scikit-ntk
-pip install pykan 
-pip install numpy
-pip install pandas
-pip install torch
-pip install scikit-learn
-pip install matplotlib
+pip install scikit-ntk pykan numpy pandas torch scikit-learn matplotlib
 ```
 
 ## References
