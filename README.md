@@ -7,7 +7,7 @@ Python 3.9.7 or higher
 pip
 ```
 
-**Installation:**
+**Libraries:**
 ```bash
 pip install scikit-ntk pykan numpy pandas torch scikit-learn matplotlib
 ```
